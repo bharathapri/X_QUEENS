@@ -9,4 +9,4 @@
 
 <div align="center">
 
-  <img src="😒.png"width="300" height="300">
+  <img src=QUEEN-X.jpg"width="300" height="300">
