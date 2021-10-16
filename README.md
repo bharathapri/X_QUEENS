@@ -1,32 +1,22 @@
 # X_QUEENS
-<div align="center">
-
-  <img src="QUEEN-X.jpg"width="300" height="300">
-
-  <h1>🍂🔰QUEEN-X🔰🍂</h1>
-
-</div>
-
-<p align="center">
-
-    Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
-
-    <br>
-
-        <a href="https://https://chat.whatsapp.com/LK37FVsJk4rKONVepQSLBY">Whatsapp Group</a> |
-
-        <a -
-
-
-
-### Simple Method
-
-[![Run on Repl.it](https://repl.it/badge/github/Quiec/X_QUEENS)](https://repl.it/@Quiec/X_QUEENS)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bharathapriyanath/X_QUEENS/blob/master/Dockerfile
-
-)
-
-<div align="center">
 
   
+<div align="center">
+  <h1>🍂🔰QUEEN-X🔰🍂</h1>
+</div>
+<div align="center">
+  <img border-radius: 15px src="https://drive.google.com/QUEEN-X" width="400" height="400"/>
+  <p align="center">
+<a href="#"><img title="White" src="https://img.shields.io/badge/X DEVIL PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/XDEVILWa"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
+<p align="center">
+Project created by <a href="https://github.com/Dark-Knight-Hiruwa"> HIRUWA</a> This project may be free
+    <br
+       | © |
+        owner |
+    <br> 
+</p>
