@@ -20,4 +20,5 @@ Project created by <a href="https://github.com/Dark-Knight-Hiruwa"> HIRUWA</a> T
         owner |
     <br> 
 </p>
-src="https//img.shields.io/badge/Created💥by💥 HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+
+src="https//img.shields.io/badge/Created💥by💥 BHARATHA-dqz/JulieMwol?color=red=for-the-badge&logo=whatsapp"></a>
