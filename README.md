@@ -10,7 +10,7 @@
 <a href="#"><img title="White" src="https://img.shields.io/badge/X DEVIL PUBLIC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/XDEVILWa"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/XDEVILWa"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 BHARATHA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
