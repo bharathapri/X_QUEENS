@@ -14,11 +14,4 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Dark-Knight-Hiruwa"> HIRUWA</a> This project may be free
-    <br
-       | © |
-        owner |
-    <br> 
-</p>
-
-src="https//img.shields.io/badge/Created💥by💥 BHARATHA-dqz/JulieMwol?color=red=for-the-badge&logo=whatsapp"></a>
+Project created by <a href="https://github.com/bharathapriyanath"
